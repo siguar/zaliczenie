@@ -7,4 +7,9 @@ public class Main {
     }
 
     int a = 2;
+    int b = 4;
+    int c = 5;
+    int v = 6;
+
 }
+//git merge origin/master
