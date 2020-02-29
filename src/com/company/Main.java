@@ -11,5 +11,6 @@ public class Main {
     int c = 5;
     int v = 6;
     int bb = 7;
+    int nb = 76;
 }
 //git merge origin/master
